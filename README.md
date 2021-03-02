@@ -1,0 +1,2 @@
+# Hateful-Meme-Classification
+My work classifies hateful memes targeted at a particular audience so as to modify their opinions on certain issue.I proposed a sequential and a multimodal approach to extract information from image captions as well as text in the memes. Thus, a two-way feature extraction is performed, and deep learning models are applied. Further, a comparative analysis is done, and results obtained are quite comparable to human accuracy. In future I plan to extend this work to other multimodal feature extraction methods (such as Bert and Transformers)
